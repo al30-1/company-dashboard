@@ -72,7 +72,7 @@ Use the following credentials to log in and test the application:
 | :------- | :--------- | :------------- |
 | alice    | Passw0rd!  | ACME Corporation (Blue theme) |
 | bob      | Passw0rd!  | BETA Industries (Red theme)   |
-| charlie    Passw0rd!    GAMMA Solutions (Green theme) |
+| charlie  | Passw0rd!  | GAMMA Solutions (Green theme) |
 
 
 ## Project Structure
